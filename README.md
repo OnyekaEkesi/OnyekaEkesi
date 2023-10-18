@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnyekaEkesi
-- 👀 I’m interested in Data Analysis, Machine Learning(Financial Modelling) and Solution deployment.
+- 👀 I’m interested in providing data-driven solutions majoring in financial modelling.
 - 🌱 I’m currently learning Java and Azure Computing.
-- 💞️ I’m looking to collaborate on daunting projects that provide real time soltions.
+- 💞️ I’m looking to collaborate on daunting projects that provide real time solutions.
 - 📫 How to reach me onyekaekesi@gmail.com
 
 <!---
