@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnyekaEkesi
+- 👋 Hi, I’m Onyeka Ekesi
 - 👀 I’m interested in providing data-driven solutions.
 - 🌱 I’m currently learning Java and Azure Computing.
 - 💞️ I’m looking to collaborate on daunting projects that provide real time solutions.
