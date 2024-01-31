@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onyeka Ekesi
 - 👀 I’m interested in providing data-driven solutions.
-- 🌱 I’m currently learning Java and Azure Computing.
+- 🌱 I’m currently learning Azure Computing.
 - 💞️ I’m looking to collaborate on daunting projects that provide real time solutions.
 - 📫 How to reach me onyekaekesi@gmail.com
 
